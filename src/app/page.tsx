@@ -1,3 +1,3 @@
 export default function Home() {
-  return <div>ACME Rocket</div>;
+  return <div className='bg-emerald-500'>ACME-Rocket</div>;
 }
